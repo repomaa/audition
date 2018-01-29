@@ -1,3 +1,0 @@
-post_install() {
-    useradd -M -s /bin/false audition
-}
