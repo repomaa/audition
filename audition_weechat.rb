@@ -7,7 +7,7 @@ VERSION = '0.1.0'
 LICENSE = 'MIT'
 DESCRIPTION = 'Simple now playing script using audition'
 DEFAULT_OPTIONS = {
-  host: 'http://localhost:8767',
+  host: 'http://localhost:7767',
   format: '/me is listening to %<track>s'
 }.freeze
 
